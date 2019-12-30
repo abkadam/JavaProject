@@ -59,6 +59,18 @@ public class DataBase {
 		{
 			con.close();
 		}
+		finally
+		{
+			con.close();
+		}
+		finally
+		{
+			con.close();
+		}
+		finally
+		{
+			con.close();
+		}
 		
 	}
 	
